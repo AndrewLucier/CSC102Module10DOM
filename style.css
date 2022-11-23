@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to right, white, #2eacd4);
+}
+
+#dataTable{
+    background-image: linear-gradient(to bottom, white 60%, skyblue);
+}
+
+.button{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: lightblue;
+}
+
+.buttonLg{
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: lightblue;
+}
